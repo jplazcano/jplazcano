@@ -8,7 +8,7 @@
 
 🎯 My goal is to help businesses and individuals make data-driven decisions by developing powerful and accessible analytical tools.
 
-📫 You can reach me at jp@juanpelazcano.com or connect with me on LinkedIn at [https://www.linkedin.com/in/juanpedrolazcano/].
+📫 You can reach me at jp@juanpelazcano.com or connect with me on LinkedIn at https://www.linkedin.com/in/juanpedrolazcano/.
 
 
 
