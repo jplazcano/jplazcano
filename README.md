@@ -4,7 +4,7 @@
 
 🌱 I’m currently improving my knowledge of Python, focusing on advanced data manipulation techniques, machine learning algorithms, and best practices in data science.
 
-🔭 I've worked on projects related to financial analysis, customer segmentation, predictive modeling, and complex data visualization. I specialize in creating data analysis applications using Streamlit to deliver interactive and user-friendly insights.
+🔭 I specialize in creating data analysis applications using Streamlit to deliver interactive and user-friendly insights.
 
 🎯 My goal is to help businesses and individuals make data-driven decisions by developing powerful and accessible analytical tools.
 
